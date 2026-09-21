@@ -12,7 +12,7 @@
 
 I'm a software engineer from the UK, currently working with **C#, ASP.NET, Entity Framework and SQL Server**.
 
-I enjoy building full-stack applications and understanding how each part of a system works—from the browser and web server to backend logic and databases.
+I enjoy building full-stack applications and understanding how each part of a system works from the browser and web server to backend logic and databases.
 
 ```csharp
 public enum Hobby
